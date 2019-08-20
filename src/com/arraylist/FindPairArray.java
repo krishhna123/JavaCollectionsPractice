@@ -1,3 +1,5 @@
+package com.arraylist;
+
 import java.util.ArrayList;
 
 public class FindPairArray {
